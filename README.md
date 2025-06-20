@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 About Me<br>Hi, I'm Mayank Yadav, a passionate and curious Computer Science Engineering student at PSIT Kanpur (B.Tech CSE, Batch '26). I'm enthusiastic about building scalable software, exploring full stack development, and diving into real-world tech challenges.<br><br>🚀 What I Do<br>🌐 Full Stack Development (JavaScript, React, Node.js)<br>💻 Software Development (Java, Python)<br>🔐 Building secure and scalable web apps<br>📚 Currently learning DSA and Develpoment.<br><br>🛠 Tech Stack<br>Languages: Java, Python<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express.js<br>Database: MongoDB, MySQL<br>Tools: Git, GitHub, VS Code, Postman<br>
-MY PORTFOLIO - https://bit.ly/4l1Qppy
+
+My Portfolio - https://bit.ly/4l1Qppy
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-yadav-87b39c163) 
